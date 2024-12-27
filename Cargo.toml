@@ -1,6 +1,6 @@
 [package]
 name = "rs-max31865"
-version = "0.2"
+version = "1.0.0"
 authors = ["Rudi Horn <dyn-git@rudi-horn.de>", "Emeric Martineau <11473190+emeric-martineau@users.noreply.github.com>"]
 keywords = ["embedded", "PCF8574", "PCF8575", "Esp32", "embedded-hal v1", "rtd-sensor"]
 categories = ["embedded", "no-std", "hardware-support"]
