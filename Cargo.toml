@@ -2,7 +2,7 @@
 name = "rs-max31865"
 version = "1.0.0"
 authors = ["Rudi Horn <dyn-git@rudi-horn.de>", "Emeric Martineau <11473190+emeric-martineau@users.noreply.github.com>"]
-keywords = ["embedded", "PCF8574", "PCF8575", "Esp32", "embedded-hal v1", "rtd-sensor"]
+keywords = ["embedded-hal-v1", "rtd-sensor", "max31865"]
 categories = ["embedded", "no-std", "hardware-support"]
 description = "Generic driver for the MAX31865 RTD to Digital converter"
 documentation = "https://github.com/emeric-martineau/rs-max31865"
